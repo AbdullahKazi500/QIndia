@@ -26,7 +26,7 @@ QIndia
     The main point is that classical computers cannot solve complex problems. Quantum Computing on the other hand can solve complex problems with  speed and has the potential to revolutionize The industry And it's not just their speed. Quantum computers can solve the kind of complex problems that regular computers are really bad at solving
       Director of engineering at Google, Hartmut Neven, also noted that quantum computers could help build better climate models that could give us more insight into how humans are influencing the environment. Although Quantum computing is in it’s initial development we can predict some amazing new development
     Let's have a look at some examples Quantum computing will help us in solving complex problems more effectively over classical computing 
-   How we can bring quantum awareness
+    How we can bring quantum awareness
 
      How we can contribute to Quantum ecosystem
 
@@ -40,6 +40,6 @@ QIndia
 
      CONCLUSIONS 
      Quantum computers have the potential to revolutionize computation by making certain types of classically complex & tough problems solvable. While no quantum    computer is yet sophisticated enough to carry out calculations that a classical computer can't, great progress is underway. 
-   References
+    References
 
 
